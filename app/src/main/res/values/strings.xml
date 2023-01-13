@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Hello UdMercy</string>
+    <string name="app_name">Hello UofD Mercy</string>
+    <string name="dad_joke_setup">When does a joke become a Dad joke?</string>
+    <string name="dad_joke_punchline">When the punchline becomes apparent. :D</string>
 </resources>
